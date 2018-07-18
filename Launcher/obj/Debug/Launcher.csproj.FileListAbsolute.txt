@@ -1,0 +1,17 @@
+C:\Users\AlexanderZh\Desktop\CloudBacktester\Launcher\obj\Debug\Launcher.csprojResolveAssemblyReference.cache
+C:\Users\AlexanderZh\Desktop\CloudBacktester\Launcher\obj\Debug\Launcher.LauncherService.resources
+C:\Users\AlexanderZh\Desktop\CloudBacktester\Launcher\obj\Debug\Launcher.ProjectInstaller.resources
+C:\Users\AlexanderZh\Desktop\CloudBacktester\Launcher\obj\Debug\Launcher.csproj.GenerateResource.Cache
+C:\Users\AlexanderZh\Desktop\CloudBacktester\Launcher\bin\Debug\Launcher.exe.config
+C:\Users\AlexanderZh\Desktop\CloudBacktester\Launcher\bin\Debug\Launcher.exe
+C:\Users\AlexanderZh\Desktop\CloudBacktester\Launcher\bin\Debug\Launcher.pdb
+C:\Users\AlexanderZh\Desktop\CloudBacktester\Launcher\bin\Debug\AWSSDK.Core.dll
+C:\Users\AlexanderZh\Desktop\CloudBacktester\Launcher\bin\Debug\AWSSDK.S3.dll
+C:\Users\AlexanderZh\Desktop\CloudBacktester\Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AlexanderZh\Desktop\CloudBacktester\Launcher\bin\Debug\AWSSDK.Core.pdb
+C:\Users\AlexanderZh\Desktop\CloudBacktester\Launcher\bin\Debug\AWSSDK.Core.xml
+C:\Users\AlexanderZh\Desktop\CloudBacktester\Launcher\bin\Debug\AWSSDK.S3.pdb
+C:\Users\AlexanderZh\Desktop\CloudBacktester\Launcher\bin\Debug\AWSSDK.S3.xml
+C:\Users\AlexanderZh\Desktop\CloudBacktester\Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AlexanderZh\Desktop\CloudBacktester\Launcher\obj\Debug\Launcher.exe
+C:\Users\AlexanderZh\Desktop\CloudBacktester\Launcher\obj\Debug\Launcher.pdb
