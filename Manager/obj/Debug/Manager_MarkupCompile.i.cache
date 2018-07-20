@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\AlexanderZh\Desktop\CloudBacktester\Manager\obj\Debug\
+C:\BackTester\Manager\obj\Debug\
 Manager
 none
 false
 DEBUG;TRACE
-C:\Users\AlexanderZh\Desktop\CloudBacktester\Manager\App.xaml
+C:\BackTester\Manager\App.xaml
 3-1302212707
 
-31140417209
-15-1734629579
+31-603765931
+151927007138
 MainWindow.xaml;Views\CreateEc2InstancesView.xaml;Views\Ec2InstancesView.xaml;
 
-False
+True
 

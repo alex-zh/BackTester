@@ -27,9 +27,9 @@ namespace Manager.Services
                     Owners = new List<string>() { "self" }
                 };
 
-				throw new InvalidOperationException();
-				//var result = await client.DescribeImagesAsync(describeImagesRequest);
-               // return result.Images;
+				//throw new InvalidOperationException();
+				var result = await client.DescribeImagesAsync(describeImagesRequest);
+                return result.Images;
             }
         }
     }
