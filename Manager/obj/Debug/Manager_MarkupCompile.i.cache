@@ -16,5 +16,5 @@ C:\BackTester\Manager\App.xaml
 151927007138
 MainWindow.xaml;Views\CreateEc2InstancesView.xaml;Views\Ec2InstancesView.xaml;
 
-True
+False
 
